@@ -26,14 +26,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      [
-        "expo-image-picker",
-        {
-          "photosPermission": "O aplicativo acessa suas fotos para permitir que você as compartilhe com seus amigos."
-        }
-      ]
-    ]
+    }
   }
 }
