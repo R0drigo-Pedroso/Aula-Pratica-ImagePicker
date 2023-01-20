@@ -22,3 +22,5 @@ Adicione (após a chave `web`) o recurso a seguir:
       ]
     ]
 ```
+
+## 02 Recursos da Camera
